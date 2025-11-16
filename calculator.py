@@ -1,3 +1,7 @@
+# https://github.com/alh578/lab10-AH-AH
+# Partner 1: Adam Hoshimov
+# Partner 2: Adam Hoshimov
+
 """
 calculator.py
 - Defines functions used to create a simple calculator
