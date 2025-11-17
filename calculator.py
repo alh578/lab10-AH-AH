@@ -36,10 +36,11 @@ def div(a, b):
         return b / a
 
 def logarithm(a, b):
-    if b <= 0 or a <= 0:
+    if a <= 0 or a == 1:
         raise ValueError
-    else:
-        return math.log(b, a)
+    if b <= 0:
+        raise ValueError
+    return math.log(b, a)
 
 def exp(a, b):
     return a ** b
