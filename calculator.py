@@ -1,6 +1,6 @@
-# https://github.com/alh578/lab10-AH-AH
+# https://github.com/alh578/lab10-AH-LD
 # Partner 1: Adam Hoshimov
-# Partner 2: Adam Hoshimov
+# Partner 2: Luke Dutrow
 
 """
 calculator.py
